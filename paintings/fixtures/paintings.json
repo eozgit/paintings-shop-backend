@@ -1,0 +1,98 @@
+[
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2019-01-01",
+            "media": "Ink on paper",
+            "height": 10,
+            "width": 10,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2019/01/img_1319-1.jpg",
+            "price": 299.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2018-01-01",
+            "media": "Mixed media on paper",
+            "height": 11.7,
+            "width": 16.5,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2019/01/presentation1-1.png",
+            "price": 399.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2018-01-01",
+            "media": "Mixed media on paper",
+            "height": 40,
+            "width": 40,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/10/img_20181013_211907-1.jpg",
+            "price": 449.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Powering the flexible world",
+            "date": "2018-01-01",
+            "media": "Mixed media on paper",
+            "height": 11.7,
+            "width": 16.5,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/08/p1150325.jpg",
+            "price": 349.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Gateacre",
+            "date": "2018-01-01",
+            "media": "Mixed media on paper",
+            "height": 11.7,
+            "width": 16.5,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/07/p1150242.jpg",
+            "price": 349.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2018-01-01",
+            "media": "Mixed media on canvas",
+            "height": 40,
+            "width": 40,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/04/p1140939.jpg",
+            "price": 599.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2018-01-01",
+            "media": "Mixed media on paper",
+            "height": 11.5,
+            "width": 16.5,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/p1140734.jpg",
+            "price": 349.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2018-01-01",
+            "media": "Mixed media on canvas",
+            "height": 40,
+            "width": 40,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/p1140738.jpg",
+            "price": 449.00
+        }
+    }
+]

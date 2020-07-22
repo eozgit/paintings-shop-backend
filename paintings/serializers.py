@@ -7,4 +7,4 @@ class PaintingSerializer(serializers.ModelSerializer):
     class Meta:
         model = Painting
         fields = ('id', 'title', 'date', 'media',
-                  'height', 'width', 'imageUrl',)
+                  'height', 'width', 'imageUrl', 'price',)

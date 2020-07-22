@@ -94,5 +94,185 @@
             "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/p1140738.jpg",
             "price": 449.00
         }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2018-01-01",
+            "media": "Mixed media on canvas",
+            "height": 40,
+            "width": 40,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/26231863_2012153482333373_3453285086039146071_o.jpg",
+            "price": 349.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Monolith I",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 12,
+            "width": 12,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/monolithi.jpg",
+            "price": 149.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Monolith II",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 12,
+            "width": 12,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/monlith-ii1.jpg",
+            "price": 149.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Blue no.3",
+            "date": "2017-01-01",
+            "media": "Mixed media on canvas",
+            "height": 24,
+            "width": 36,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/21.jpg",
+            "price": 349.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Blue no.2",
+            "date": "2017-01-01",
+            "media": "Mixed media on canvas",
+            "height": 24,
+            "width": 36,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/11.jpg",
+            "price": 349.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Blue",
+            "date": "2017-01-01",
+            "media": "Mixed media on canvas",
+            "height": 40,
+            "width": 40,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/blue1.jpg",
+            "price": 399.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Going in circles",
+            "date": "2018-01-01",
+            "media": "Mixed media on canvas",
+            "height": 40,
+            "width": 40,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/circle.jpg",
+            "price": 449.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "In the deepest",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 11.5,
+            "width": 16.5,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/blue3.jpg",
+            "price": 249.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Fragmented Dimensions",
+            "date": "2017-01-01",
+            "media": "Mixed media on canvas",
+            "height": 40,
+            "width": 40,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/fd.jpg",
+            "price": 449.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2017-01-01",
+            "media": "Mixed media on canvas",
+            "height": 20,
+            "width": 24,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/ip2.jpg",
+            "price": 299.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2017-01-01",
+            "media": "Mixed media on canvas",
+            "height": 20,
+            "width": 24,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/lc.jpg",
+            "price": 299.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Light Cone Approaching An Event Horizon",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 11.5,
+            "width": 16.5,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/ip.jpg",
+            "price": 249.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Experimental Light Cone",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 11.5,
+            "width": 16.5,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/ip3.jpg",
+            "price": 249.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Intersecting Perspectives",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 11.5,
+            "width": 16.5,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/pu.jpg",
+            "price": 249.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Network-7",
+            "date": "2016-01-01",
+            "media": "Mixed media on canvas",
+            "height": 28,
+            "width": 20,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/n1.jpg",
+            "price": 349.00
+        }
     }
 ]

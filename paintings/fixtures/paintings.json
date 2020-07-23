@@ -274,5 +274,101 @@
             "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/n1.jpg",
             "price": 349.00
         }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "The Watercolour Out of Space",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 10,
+            "width": 12,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/wcos1.jpg",
+            "price": 299.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "TWOoS",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 6,
+            "width": 8,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/p1140485.jpg",
+            "price": 249.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Broken Symmetry 6-fold in blue",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 12,
+            "width": 12,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/4.jpg",
+            "price": 249.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Broken Symmetry 5-fold in green",
+            "date": "2017-01-01",
+            "media": "Mixed media on paper",
+            "height": 12,
+            "width": 12,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/3.jpg",
+            "price": 249.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Broken Symmetry 4-fold in red",
+            "date": "2017-01-01",
+            "media": "Watercolours on paper",
+            "height": 12,
+            "width": 12,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/2.jpg",
+            "price": 249.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Broken Symmetry 3-fold in earth",
+            "date": "2017-01-01",
+            "media": "Watercolours on paper",
+            "height": 12,
+            "width": 12,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/1.jpg",
+            "price": 249.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "",
+            "date": "2017-01-01",
+            "media": "Mixed media on canvas",
+            "height": 10,
+            "width": 26,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/20525241_1946493162232739_3242251515252609688_n.jpg",
+            "price": 349.00
+        }
+    },
+    {
+        "model": "paintings.Painting",
+        "fields": {
+            "title": "Choices",
+            "date": "2017-01-01",
+            "media": "Mixed media on canvas",
+            "height": 40,
+            "width": 60,
+            "imageUrl": "https://dilekozgitartblog.files.wordpress.com/2018/01/choises.jpg",
+            "price": 599.00
+        }
     }
 ]

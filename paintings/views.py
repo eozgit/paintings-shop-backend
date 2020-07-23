@@ -24,27 +24,27 @@ class PaintingList(generics.ListCreateAPIView):
 
         height_min = self.request.query_params.get('height_min', None)
         if height_min is not None:
-            queryset = queryset.filter(height__gt=height_min)
+            queryset = queryset.filter(height__gte=height_min)
 
         height_max = self.request.query_params.get('height_max', None)
         if height_max is not None:
-            queryset = queryset.filter(height__lt=height_max)
+            queryset = queryset.filter(height__lte=height_max)
 
         width_min = self.request.query_params.get('width_min', None)
         if width_min is not None:
-            queryset = queryset.filter(width__gt=width_min)
+            queryset = queryset.filter(width__gte=width_min)
 
         width_max = self.request.query_params.get('width_max', None)
         if width_max is not None:
-            queryset = queryset.filter(width__lt=width_max)
+            queryset = queryset.filter(width__lte=width_max)
 
         price_min = self.request.query_params.get('price_min', None)
         if price_min is not None:
-            queryset = queryset.filter(price__gt=price_min)
+            queryset = queryset.filter(price__gte=price_min)
 
         price_max = self.request.query_params.get('price_max', None)
         if price_max is not None:
-            queryset = queryset.filter(price__lt=price_max)
+            queryset = queryset.filter(price__lte=price_max)
 
         return queryset
 

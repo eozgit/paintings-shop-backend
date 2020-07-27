@@ -8,7 +8,7 @@ class PaintingList(generics.ListCreateAPIView):
     serializer_class = PaintingSerializer
 
     def get_queryset(self):
-        queryset = Painting.objects.all()
+        queryset = Painting.objects.order_by('id')
 
         title = self.request.query_params.get('title', None)
         if title is not None:

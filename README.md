@@ -1,7 +1,7 @@
 ### Paintings Shop
 
 
-[Live App](http://ec2-54-198-93-144.compute-1.amazonaws.com/static/spa/index.html#/registration)
+[Live App](http://ec2-35-168-10-84.compute-1.amazonaws.com/static/spa/index.html#/registration)
 
 
 ##### Preview

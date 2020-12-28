@@ -1,9 +1,6 @@
 ### Paintings Shop
 
 
-[Live App](http://ec2-35-168-10-84.compute-1.amazonaws.com/static/spa/index.html#/registration)
-
-
 ##### Preview
 
 <img src='./shop.gif' alt='Paintings Shop preview' />
@@ -39,5 +36,4 @@ alt="Paintings Shop" width="428" height="241" /></a>
 ###### Features
 -   Register/Login
 -   Browse/filter items
--   Add to cart
--   Checkout
+-   Add to basket/Checkout
